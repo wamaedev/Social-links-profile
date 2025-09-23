@@ -49,12 +49,24 @@ p {
   margin-bottom: 30px;
 }
 
-li {
-  text-decoration: none;
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button {
+
 }
 
 a {
   text-decoration: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 90px;
+  padding-left: 90px;
+  background-color: #1f1f1f;
+  width: 100px;
 }
 
 
