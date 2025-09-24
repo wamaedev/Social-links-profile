@@ -45,7 +45,7 @@ Users should be able to:
 
 ### What I learned
 
-One of the main things I practiced in this challenge was using semantic HTML elements like <main>, <article>, <header>, and <nav> instead of relying only on <div>. I also reinforced how to style anchor tags as full-width buttons with hover and focus states.
+One of the main things I practiced in this challenge was using semantic HTML elements like main, article, header, and nav instead of relying only on div. I also reinforced how to style anchor tags as full-width buttons with hover and focus states.
 
 ### Continued development
 
