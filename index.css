@@ -74,6 +74,13 @@ a {
   border-radius: 8px;
 }
 
+a:hover {
+  color: #141414;
+  background-color: #c5f82a;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
 
 .attribution { 
   font-size: 11px; 
