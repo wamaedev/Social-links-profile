@@ -15,9 +15,9 @@ p {
 }
 
 .container {
-  background-color: #333333;
+  background-color: #1f1f1f;
   width: 400px;
-  height: 600px;
+  height: 620px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
@@ -29,19 +29,23 @@ p {
 }
 
 .profile-picture {
-  width: 70px;
-  height: 70px;
-  border-radius: 35px;
-  margin-top: 20px;
+  width: 90px;
+  height: 90px;
+  border-radius: 45px;
+  margin-top: 35px;
 }
 
 .profile-name {
-  margin-top: 20px;
+  margin-top: 25px;
+  font-size: 25px;
+  font-weight: 600;
 }
 
 .location {
-  margin-top: 5px;
-  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  font-size: 15px;
+  font-weight: 600;
   color: #c5f82a;
 }
 
@@ -49,24 +53,25 @@ p {
   margin-bottom: 30px;
 }
 
-.links {
+.social-links {
   display: flex;
   flex-direction: column;
   align-items: center;
-}
-
-button {
-
+  gap: 15px;
 }
 
 a {
   text-decoration: none;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-right: 90px;
-  padding-left: 90px;
-  background-color: #1f1f1f;
-  width: 100px;
+  background-color: #333333;
+  font-weight: 600;
+  text-align: center;
+  font-size: 15px;
+  width: 300px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 8px;
 }
 
 
