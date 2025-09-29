@@ -62,7 +62,7 @@ p {
 
 a {
   text-decoration: none;
-    color: white;
+  color: white;
   background-color: #333333;
   font-weight: 600;
   text-align: center;
@@ -82,7 +82,6 @@ a:hover {
   cursor: pointer;
   transition: 0.5s;
 }
-
 
 .attribution { 
   font-size: 11px; 
